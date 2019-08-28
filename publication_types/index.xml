@@ -6,10 +6,20 @@
     <description>Recent content in Publication_types on Jiahui Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Jiahui Chen</copyright>
+    <copyright>&amp;copy; 2019 Jiahui Chen</copyright>
+    <lastBuildDate>Wed, 28 Aug 2019 17:17:24 +0800</lastBuildDate>
     
 	<atom:link href="https://jhchen6.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2</title>
+      <link>https://jhchen6.github.io/publication_types/2/</link>
+      <pubDate>Wed, 28 Aug 2019 17:17:24 +0800</pubDate>
+      
+      <guid>https://jhchen6.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

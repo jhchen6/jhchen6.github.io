@@ -1,5 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <loc>https://jhchen6.github.io/publication_types/2/</loc>
+      <lastmod>2019-08-28T17:54:12+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jhchen6.github.io/publication/8807233/</loc>
+      <lastmod>2019-08-28T17:54:12+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jhchen6.github.io/</loc>
+      <lastmod>2019-08-28T17:54:12+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jhchen6.github.io/publication_types/</loc>
+      <lastmod>2019-08-28T17:54:12+08:00</lastmod>
+    </url>
+    
   
     
     
@@ -15,7 +50,7 @@
     <url>
     
       <loc>https://jhchen6.github.io/publication/</loc>
-      <lastmod>2018-04-09T19:10:15+01:00</lastmod>
+      <lastmod>2019-08-28T17:54:12+08:00</lastmod>
     </url>
     
   
@@ -33,26 +68,6 @@
     <url>
     
       <loc>https://jhchen6.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://jhchen6.github.io/</loc>
-      <lastmod>2018-05-31T23:09:52+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://jhchen6.github.io/publication_types/</loc>
-      <priority>0</priority>
     </url>
     
   
@@ -61,7 +76,6 @@
     <url>
     
       <loc>https://jhchen6.github.io/tags/</loc>
-      <priority>0</priority>
     </url>
     
   
